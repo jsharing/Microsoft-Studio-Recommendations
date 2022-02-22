@@ -23,7 +23,6 @@ In the folder `zippedData` are movie datasets, provided by the Flatiron School, 
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 * [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
-![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
 
 The final datasets used for analysis contain ##### movies from month year to month year.
 
@@ -32,7 +31,7 @@ The final datasets used for analysis contain ##### movies from month year to mon
 
 The best runtime to aim for is between 150 and 165 minutes. The reason I am not recommending a runtime between 195 and 210 minutes is because only two movies are represented in this category.
 
-![](./images/Runtime.png)
++![](./images/Runtime.png)
 
 The highest average grossing films are categorized into four genres:
 - Musical
@@ -40,11 +39,11 @@ The highest average grossing films are categorized into four genres:
 - Adventure
 - Fantasy
 
-![](./images/Genre.png)
++![](./images/Genre.png)
 
 The highest average grossing month to release a film is June, followed by the summer break months of May and July, with the holiday months of November and December following closely after.
 
-![](./images/Month_release.png)
++![](./images/Month_release.png)
 
 
   
